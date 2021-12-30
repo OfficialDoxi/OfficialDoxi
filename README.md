@@ -1,4 +1,7 @@
  Hello, Devs! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ Welcome to my Official Github Profile!
+ Web Developer working in Greece and pentester!
+ I Learning Python, and some frameworks!
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
@@ -9,4 +12,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/OfficialDoxi
